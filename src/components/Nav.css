@@ -1,0 +1,16 @@
+ .nav-link{
+ margin-left: 20px;
+ 
+}
+
+ul li .nav-link:hover{
+  color: #fed029 !important;
+}
+
+
+a:hover{
+  color:#fed029 !important;
+}
+a img:hover{
+  background-color: #fed029 !important;
+}
